@@ -1,49 +1,35 @@
-TripSphere – Travel Website Clone
+# TripSphere Clone
 
-TripSphere is a responsive travel website clone designed to help users explore popular destinations and discover new travel experiences.
+A modern and responsive travel website clone designed to provide a clean and engaging platform for exploring popular travel destinations.
 
-About the Project
+This project was developed as part of my frontend development journey, with a focus on creating a structured user interface, responsive layouts, and an intuitive browsing experience using core web technologies.
 
-This project was created as part of my web development learning journey. I focused on building a clean, simple, and responsive travel website using HTML and CSS.
+## Key Features
 
-Features
+* Responsive design optimized for desktop, tablet, and mobile devices
+* Clean and modern travel-focused user interface
+* Dedicated sections for popular destinations
+* Structured destination information
+* User-friendly navigation and layout
+* Optimized images and content presentation
 
-- Responsive design for desktop, tablet, and mobile devices
-- Popular destinations section
-- Tamil Nadu destinations section
-- Search bar
-- Why TripSphere section
-- Responsive navigation
-- Travel-focused user interface
-- Mobile-friendly layouts
+## Technologies Used
 
-Technologies Used
+* HTML5
+* CSS3
 
-- HTML5
-- CSS3
-- Flexbox
-- Responsive Web Design
+## Project Links
 
-Live Website
+**GitHub Repository:**
+[Paste GitHub Repository Link Here]
 
-[Add your website link here]
+**Live Website:**
+[Paste Live Website Link Here]
 
-GitHub Repository
+## Project Purpose
 
-[Add your GitHub repository link here]
+The main objective of this project was to strengthen my frontend development skills by building a real-world travel website interface from scratch and applying responsive web design principles.
 
-What I Learned
+## Developed By
 
-Through this project, I improved my understanding of HTML structure, CSS styling, Flexbox, responsive design, and creating layouts for different screen sizes.
-
-Future Improvements
-
-- Add JavaScript functionality
-- Add destination search functionality
-- Add interactive destination cards
-- Add more travel destinations
-
-Author
-
-Manoj E
-Aspiring Full Stack Web Developer          
+**Manoj E**
